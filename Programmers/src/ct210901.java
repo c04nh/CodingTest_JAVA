@@ -1,6 +1,6 @@
-//x¸¸Å­ °£°İÀÌ ÀÖ´Â n°³ÀÇ ¼ıÀÚ
+// xë§Œí¼ ê°„ê²©ì´ ìˆëŠ” nê°œì˜ ìˆ«ì
 
-class Solution {
+class Solution1 {
     public long[] solution(int x, int n) {
         long[] answer = new long[n];
         long temp = x;

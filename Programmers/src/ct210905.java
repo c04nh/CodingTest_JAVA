@@ -1,6 +1,6 @@
-// ¹®ÀÚ¿­À» Á¤¼ö·Î ¹Ù²Ù±â
+// ë¬¸ìì—´ì„ ì •ìˆ˜ë¡œ ë°”ê¾¸ê¸°
 
-class Solution4 {
+class Solution5 {
     public int solution(String s) {
         String ss = "";
         int answer = 0;

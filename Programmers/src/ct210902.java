@@ -1,6 +1,6 @@
-// Çà·ÄÀÇ µ¡¼À
+// í–‰ë ¬ì˜ ë§ì…ˆ
 
-class Solution1 {
+class Solution2 {
     public int[][] solution(int[][] arr1, int[][] arr2) {
         int[][] answer = new int[arr1.length][arr1[0].length];
         for(int i = 0; i < answer.length; i++){

@@ -1,6 +1,6 @@
-// ¾à¼öÀÇ ÇÕ
+// ì•½ìˆ˜ì˜ í•©
 
-class Solution3 {
+class Solution4 {
     public int solution(int n) {
         int answer = 0;
         for(int i = 1; i <= n; i++){
