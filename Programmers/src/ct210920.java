@@ -1,8 +1,9 @@
+// 1단계
 // 직사각형 별찍기
 
 import java.util.Scanner;
 
-class Solution20 {
+class Solution210920 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();

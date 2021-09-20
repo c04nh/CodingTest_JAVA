@@ -1,6 +1,7 @@
+// 1단계
 // 행렬의 덧셈
 
-class Solution2 {
+class Solution210902 {
     public int[][] solution(int[][] arr1, int[][] arr2) {
         int[][] answer = new int[arr1.length][arr1[0].length];
         for(int i = 0; i < answer.length; i++){

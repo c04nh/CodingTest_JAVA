@@ -1,6 +1,7 @@
+// 1단계
 // 가운데 글자 가져오기
 
-class Solution14 {
+class Solution210914 {
     public String solution(String s) {
         String answer = "";
         int str_len = s.length();

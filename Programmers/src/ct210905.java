@@ -1,6 +1,7 @@
+// 1단계
 // 문자열을 정수로 바꾸기
 
-class Solution5 {
+class Solution210905 {
     public int solution(String s) {
         String ss = "";
         int answer = 0;

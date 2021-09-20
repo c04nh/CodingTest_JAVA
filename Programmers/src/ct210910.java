@@ -1,6 +1,7 @@
+// 1단계
 // 문자열 내 p와 y의 개수
 
-class Solution10 {
+class Solution210910 {
     boolean solution(String s) {
         boolean answer = true;
         int countP = 0;

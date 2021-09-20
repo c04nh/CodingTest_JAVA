@@ -1,8 +1,9 @@
+// 1단계
 // 나누어 떨어지는 숫자 배열
 
 import java.util.Arrays;
 
-class Solution12 {
+class Solution210912 {
     public int[] solution(int[] arr, int divisor) {
         int count = 0;
         int num = 0;

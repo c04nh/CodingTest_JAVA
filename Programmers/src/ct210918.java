@@ -1,6 +1,7 @@
+// 1단계
 // 음양 더하기
 
-class Solution18 {
+class Solution210918 {
     public int solution(int[] absolutes, boolean[] signs) {
         int answer = 0;
         for(int i = 0; i < absolutes.length; i++){

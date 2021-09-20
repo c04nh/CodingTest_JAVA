@@ -1,6 +1,7 @@
+// 1단계
 // 약수의 합
 
-class Solution4 {
+class Solution210904 {
     public int solution(int n) {
         int answer = 0;
         for(int i = 1; i <= n; i++){

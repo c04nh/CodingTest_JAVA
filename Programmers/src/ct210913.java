@@ -1,8 +1,9 @@
+// 1단계
 // 숫자는 싫어
 
 import java.util.*;
 
-class Solution13 {
+class Solution210913 {
     public int[] solution(int []arr) {
         int[] list = new int[arr.length];
         int count = 1;

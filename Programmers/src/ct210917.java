@@ -1,8 +1,9 @@
+// 1단계
 // K번째수
 
 import java.util.Arrays;
 
-class Solution17 {
+class Solution210917 {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
         int num1, num2 = 0;

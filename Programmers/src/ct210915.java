@@ -1,8 +1,9 @@
+// 1단계
 // 두 개 뽑아서 더하기
 
 import java.util.*;
 
-class Solution15 {
+class Solution210915 {
     public int[] solution(int[] numbers) {
         Set<Integer> set = new HashSet<>();
 
