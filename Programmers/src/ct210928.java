@@ -3,7 +3,7 @@
 
 import java.util.Arrays;
 
-class Solution {
+class Solution210928 {
     public long solution(long n) {
         long answer = 0;
         String str_n = Long.toString(n); //long타입 정수를 문자열로 변환
