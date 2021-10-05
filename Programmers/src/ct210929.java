@@ -1,7 +1,7 @@
 // 1단계
 // 자연수 뒤집어 배열로 만들기
 
-class Solution {
+class Solution210929 {
     public int[] solution(long n) {
         String str_n = Long.toString(n); // long타입 정수를 문자열로 변환 후 str_n에 저장
         int[] answer = new int[str_n.length()]; // str_n의 길이만큼 정수형 배열의 크기를 할당
