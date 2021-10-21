@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-class Solution {
+class Solution211019 {
     public int solution(int n, int[] lost, int[] reserve) {
         int[] a = new int[n + 2];
         int answer = 0;
