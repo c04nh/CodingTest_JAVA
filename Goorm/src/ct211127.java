@@ -14,6 +14,7 @@ class Solution211127 {
 			else if(arr[i].equals("3")) cnt[2]++;
 		}
 		if(cnt[0] > 0 && cnt[1] > 0 && cnt[2] > 0) System.out.print("0");
+		else if(cnt[0] == 5 || cnt[1] == 5 || cnt[2] == 5) System.out.print("0");
 		else if(cnt[0] == 0) System.out.print(cnt[2]);
 		else if(cnt[1] == 0) System.out.print(cnt[0]);
 		else System.out.print(cnt[1]);
