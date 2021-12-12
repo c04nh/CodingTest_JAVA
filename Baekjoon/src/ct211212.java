@@ -1,4 +1,4 @@
-// A*B
+// AxB
 
 import java.util.Scanner;
 
