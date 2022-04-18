@@ -1,3 +1,5 @@
+// 스택
+
 import java.util.Scanner;
 
 class Solution220419 {
