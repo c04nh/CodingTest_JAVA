@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-class Solution {
+class Solution220501 {
     public int[] solution(String[] id_list, String[] report, int k) {
         int[] answer = new int[id_list.length];
         Map<String, HashSet<String>> map = new HashMap<>();
