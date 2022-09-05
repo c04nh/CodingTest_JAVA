@@ -1,3 +1,6 @@
+// 1단계
+// 성격 유형 검사하기
+
 class Solution220905 {
     private static final String[] INDICATORS = {"RT", "CF", "JM", "AN"};
     public String solution(String[] survey, int[] choices) {
